@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(17, 17, 17);
+    /* padding: 1rem; */
+    color: white;
+}
+.card{
+    background-color: black;
+    color: white;
+}
